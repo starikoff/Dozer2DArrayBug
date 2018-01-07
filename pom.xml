@@ -3,11 +3,11 @@
   <modelVersion>4.0.0</modelVersion>
 
   <groupId>ru.ra</groupId>
-  <artifactId>trydozer1</artifactId>
+  <artifactId>Dozer2DArrayBug</artifactId>
   <version>1.0-SNAPSHOT</version>
   <packaging>jar</packaging>
 
-  <name>trydozer1</name>
+  <name>Dozer2DArrayBug</name>
   <url>http://maven.apache.org</url>
 
   <properties>
