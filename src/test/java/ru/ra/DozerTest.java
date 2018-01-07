@@ -6,7 +6,7 @@ import org.junit.Test;
 
 import java.util.Arrays;
 
-public class AppTest {
+public class DozerTest {
     @Test
     public void testApp() {
         Mapper mapper = new DozerBeanMapper();
